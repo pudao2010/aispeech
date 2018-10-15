@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\item_blue.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\item_blue.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\button.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speaker_off.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\speaker_off.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_hover.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\button_hover.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speaker_on.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\speaker_on.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\in_process.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\in_process.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\item_yellow2.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\item_yellow2.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quickstart_tip_dialog_bg.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\quickstart_tip_dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\item_blue2.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\item_blue2.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dialogue_blue.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\dialogue_blue.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quickstart_tip_dialog_checkbox_normal.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\quickstart_tip_dialog_checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quickstart_tip_dialog_checkbox_selected.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\quickstart_tip_dialog_checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\item_yellow.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\item_yellow.9.png"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quickstart_tip_dialog_ok_btn.9.png",
+        "source": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\src\\main\\res\\drawable-xhdpi\\quickstart_tip_dialog_ok_btn.9.png"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9c15faf0ca5678ebff0f95d10f08b2fcc7d10749\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\classes_6387d3722a0dc7a879002dab9299b91cec852b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f2ba34d9313111fccafe06d72425a11b0b66bea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\classes_97e4b95562be287591c2ac0af7151e4bfe57816a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\5ce7eadc6a9b61932c9e021b915cc7eccf5e1fea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\classes_46521f9e955819f4b5c52e739f870b559d15b473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d78684c83f58ea3f7c1b0882a8562638ac116f60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="019d86b31bcd21970d370ca1425cc68ec23f1be7">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\classes_2f74ba104e4546bfd64b78c14ed49a372b052de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2698013448b8a7c7ec57e24213e13ccdd97281c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4798b2c2dd1fa53176696fa416890d27acbf5617">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\classes_e627017eb85645d0f6037a98a6f688f4b0229b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ccf2f0b6f925cfbcdc0762914cdb2809cf27ef21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\classes_09884f77889fcc74a24774e7d3fda29c5dd3c1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mi-LocalASR-single-2.9.5xlb\sample\libs\AISpeech-SDK-for-Android-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a8907dcc927a4fec89a2f2253b9caf5a2d3df9b">
+        <dex dex="D:\Mi-LocalASR-single-2.9.5xlb\sample\build\intermediates\pre-dexed\debug\AISpeech-SDK-for-Android-2.1.3_ad48b3a8c2d3e904db74a604b1e55313976a6a1f.jar" />
+    </item>
+
+</items>

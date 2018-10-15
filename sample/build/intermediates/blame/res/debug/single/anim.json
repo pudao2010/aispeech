@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccf2f0b6f925cfbcdc0762914cdb2809cf27ef21\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccf2f0b6f925cfbcdc0762914cdb2809cf27ef21\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccf2f0b6f925cfbcdc0762914cdb2809cf27ef21\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccf2f0b6f925cfbcdc0762914cdb2809cf27ef21\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Mi-LocalASR-single-2.9.5xlb\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d8fb89a2fdd3049ddeeb5edbaf8c720a07a788\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]
